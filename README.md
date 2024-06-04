@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gogulamudigeethareddy
+- 👋 Hi, I’m @gogulamudi geethareddy
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Projects
