@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gogulamudi geethareddy
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Projects
+- 👀 I’m interested in DATA
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Python and SQL Projects
 - 📫 How to reach me gogulamudigeethareddy@gmail.com
 
 <!---
