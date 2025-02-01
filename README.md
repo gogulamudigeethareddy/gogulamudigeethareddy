@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gogulamudi geethareddy
 - 👀 I’m interested in exploring DATA
-- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Python and SQL Projects
 - 📫 How to reach me gogulamudigeethareddy@gmail.com
 
