@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @geethareddy gogulamudi
+- 👋 Hi, I’m Geetha
 - 👀 I’m interested in exploring DATA
 - 💞️ I’m looking to collaborate on Python and SQL Projects
 - 📫 How to reach me gogulamudigeethareddy@gmail.com
